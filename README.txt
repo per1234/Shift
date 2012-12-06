@@ -1,1 +1,1 @@
-Shift library for Arduino and 74HC595 (shift register)
+Arduino Library for Shift register (74HC595)
