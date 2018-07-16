@@ -7,17 +7,17 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Shift KEYWORD1
+Shift	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin KEYWORD2
-end KEYWORD2
-setDigit KEYWORD2
-write  KEYWORD2
-clear  KEYWORD2
+begin	KEYWORD2
+end	KEYWORD2
+setDigit	KEYWORD2
+write	KEYWORD2
+clear	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
